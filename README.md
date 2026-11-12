@@ -1,5 +1,3 @@
-<code>Giefek@GitHub:~$ cat README.md</code>
-
 ## 👤 Me
 
 - 🔎 **Nickname:** Giefek
