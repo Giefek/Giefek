@@ -1,5 +1,3 @@
----
-
 ## 👤 Me
 
 - 🔎 **Nickname:** Giefek
